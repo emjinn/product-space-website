@@ -972,7 +972,7 @@ input[type='checkbox'] {
 	margin-left: auto;
 	border: 1px solid #c4d8dc;
 	border-radius: 0.5rem;
-	vertical-align: top;
+	/* vertical-align: top; */
 }
 
 .cards-2 .card .card-body {
