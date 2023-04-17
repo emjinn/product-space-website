@@ -13,7 +13,7 @@ body, p {
 }
 
 .p-large {
-	font: 400 1rem/1.5rem "Raleway", sans-serif;
+	font: 400 0.975rem/1.5rem "Raleway", sans-serif;
 }
 
 .p-small {
@@ -1101,6 +1101,7 @@ input[type='checkbox'] {
 	margin-right: auto;
 	margin-bottom: 3rem;
 	margin-left: auto;
+	margin-top: 1rem
 }
 
 /* Hover Animation */
@@ -1356,8 +1357,9 @@ a:hover.back-to-top {
 	.basic-4 .fellow-member {
 		display: inline-block;
 		width: 9rem;
-		margin-right: 0.9rem;
-		margin-left: 0.9rem;
+		margin-right: 0.55rem;
+		margin-left: 0.55rem;
+		margin-top: 1rem;
 		vertical-align: top;
 	}
 
