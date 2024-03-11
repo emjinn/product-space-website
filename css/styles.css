@@ -1100,6 +1100,10 @@ a:hover.back-to-top {
 		vertical-align: top;
 	}
 
+	.category-break {
+		height: 50px; /* Adjust the space between categories as needed */
+	}
+
 
 	/* Contact */
 	.form-2 .list-unstyled li {
