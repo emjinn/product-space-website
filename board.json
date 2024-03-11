@@ -1,5 +1,5 @@
 {
-    "Board/Executive": [
+    "Executive": [
         {
             "id": "jodi-bio",
             "name": "Jodi Roe",
@@ -19,7 +19,7 @@
             "WhyPS": "I initially joined Product Space to explore possible careers in CS, where I could combine my passion for tech and connecting with people, receive professional development, and be part of a community of diverse individuals who are all highly motivated. I returned to Product Space this year to give back to the community that has contributed immensely to my PM journey and I want to continue to foster this community in product to pass all the knowledge I've gained to the next generation of product leaders."
         }
     ],
-    "Board/Design": [
+    "Design": [
         {
             "id": "neda-bio",
             "name": "Neda Emdad",
@@ -66,7 +66,7 @@
             "WhyPS": "In 2022, I joined Product Space as a product design fellow to establish a strong design foundation for myself from talented design mentors and other welcoming product enthusiasts. Now, as a product design intern, I try my best to lead other passionate fellows into gaining the confidence and skills they need to succeed in the product design industry."
         }
     ],
-    "Board/Marketing": [
+    "Marketing": [
         {
             "id": "anjali-bio",
             "name": "Anjali Mathi",
@@ -77,7 +77,7 @@
             "WhyPS": "I joined Product Space to find a supportive space to grow, connect, and engage in something larger than myself! As a part of this community, I have found a tight-knit and empowering family that is already setting the standard for future leaders in product. "
         }
     ],
-    "Board/Management": [
+    "Management": [
         {
             "id": "angie-bio",
             "name": "Angie Vo",
@@ -106,7 +106,7 @@
             "WhyPS": "I joined Product Space because this organization is an amazing community of students who are professionally driven and looking to make genuine friendships!"
         }
     ],
-    "Board/Chair": [
+    "Chairs": [
         {
             "id": "brianna-bio",
             "name": "Brianna Sison",
