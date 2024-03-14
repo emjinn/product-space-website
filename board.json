@@ -75,6 +75,24 @@
             "LinkedIn": "https://www.linkedin.com/in/anjali-mathi/",
             "FavProduct": "I love using Notion to manage, prioritize, and navigate my busy schedule! I've tried my fair share of both physical and digital planning tools, and nothing has come close to Notion's versatility and organization.  ",
             "WhyPS": "I joined Product Space to find a supportive space to grow, connect, and engage in something larger than myself! As a part of this community, I have found a tight-knit and empowering family that is already setting the standard for future leaders in product. "
+        },
+        {
+            "id": "heiyya-bio",
+            "name": "Heiyya Kapoor",
+            "position": "Marketing Chair",
+            "imgSrc": "'images/Board/Chair/HeiyyaKapoor.jpg'",
+            "LinkedIn": "https://www.linkedin.com/in/heiyyakapoor/",
+            "FavProduct": "My favorite product is Apple Wallet! Being able to have all my cards as well as tickets on there makes sure that I never forget anything at home! ",
+            "WhyPS": "I joined Product Space because I was looking for a community of like minded individuals who would help me grow personally and professionally and PS is just that! I was also hoping to explore different career paths that may interest me and PS have given me the exposure to do that. "
+        },
+        {
+            "id": "brianna-bio",
+            "name": "Brianna Sison",
+            "position": "Communications Chair",
+            "imgSrc": "'images/Board/Chair/BriannaSison.jpg'",
+            "LinkedIn": "https://www.linkedin.com/in/brianna-sison-99372a20b/",
+            "FavProduct": "My favorite product is my popsocket because of how often I prop my phone up to take photos with my friends. It also multiple functionalities, such as general grip and a stand if you were to watch a video.",
+            "WhyPS": "I joined Product Space to develop my professional skillset in product as I was still exploring what track I wanted to go down for my career. Joining Product Space has been so rewarding, as I've been able to develop both hard and soft skills in marketing as well as narrowing my niche down into an industry I am more passionate about."
         }
     ],
     "Management": [
@@ -106,16 +124,7 @@
             "WhyPS": "I joined Product Space because this organization is an amazing community of students who are professionally driven and looking to make genuine friendships!"
         }
     ],
-    "Chairs": [
-        {
-            "id": "brianna-bio",
-            "name": "Brianna Sison",
-            "position": "Communications Chair",
-            "imgSrc": "'images/Board/Chair/BriannaSison.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/brianna-sison-99372a20b/",
-            "FavProduct": "My favorite product is my popsocket because of how often I prop my phone up to take photos with my friends. It also multiple functionalities, such as general grip and a stand if you were to watch a video.",
-            "WhyPS": "I joined Product Space to develop my professional skillset in product as I was still exploring what track I wanted to go down for my career. Joining Product Space has been so rewarding, as I've been able to develop both hard and soft skills in marketing as well as narrowing my niche down into an industry I am more passionate about."
-        },
+    "Logistics": [
         {
             "id": "elisha-bio",
             "name": "Elisha Chong",
@@ -124,15 +133,6 @@
             "LinkedIn": "https://www.linkedin.com/in/elisha-chong/",
             "FavProduct": "[placeholder]",
             "WhyPS": "[placeholder]"
-        },
-        {
-            "id": "heiyya-bio",
-            "name": "Heiyya Kapoor",
-            "position": "Marketing Chair",
-            "imgSrc": "'images/Board/Chair/HeiyyaKapoor.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/heiyyakapoor/",
-            "FavProduct": "My favorite product is Apple Wallet! Being able to have all my cards as well as tickets on there makes sure that I never forget anything at home! ",
-            "WhyPS": "I joined Product Space because I was looking for a community of like minded individuals who would help me grow personally and professionally and PS is just that! I was also hoping to explore different career paths that may interest me and PS have given me the exposure to do that. "
         },
         {
             "id": "john-bio",
