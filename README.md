@@ -1,3 +1,3 @@
 # Website for Product Space @ UC San Diego
 
-[productspace-ucsd.com](https://www.productspace-ucsd.com/)
+[productspaceucsd.com](https://www.productspaceucsd.com/)
