@@ -1,170 +1,197 @@
 {
-    "Design Fellows": [
-        {
-            "id": "anula-bio",
-            "name": "Anula Narasimhan",
-            "position": "Design Fellow",
-            "imgSrc": "'images/Design/AnulaNarasimhan.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/anula-narasimhan",
-            "FavProduct": "My favorite product is the New York Times games! More specifically, the game 'Connections' has been undoubtedly my newest addiction. I love the intuitive user interface and the educational, yet uniquely fun aspect to it.",
-            "WhyPS": "I joined Product Space longing for a community which aligned with my career path. Growing alongside these fellows has shaped me to be a more motivated and successful designer, as well as being able to reap the benefits of having casual conversations about the world of product!"
-        },
-        {
-            "id": "jake-bio",
-            "name": "Jake Villasenor",
-            "position": "Design Fellow",
-            "imgSrc": "'images/Design/JakeVillasenor.jpg'",
-            "LinkedIn": "http://www.linkedin.com/in/jake-villasenor",
-            "FavProduct": "My favorite product is the Spotify app because it provides a seamless experience for streaming music, curating playlists, and discovering new media at any given moment. Music plays a big part in my life \u2013\u00a0if you see me out in the wild, there's a 95% chance I'm streaming something on Spotify!",
-            "WhyPS": "I sought to join Product Space with the intentions and expectations of surrounding myself with skilled, career-driven, and passionate people who are also working to break into the product/tech industry. My expectations were met and exceeded, as I have received valuable design education and gained hands-on experience that has helped me to expand my skillset as a designer."
-        },
-        {
-            "id": "marilyn-bio",
-            "name": "Marilyn Hoang",
-            "position": "Design Fellow",
-            "imgSrc": "'images/Design/MarilynHoang.jpg'",
-            "LinkedIn": "http://www.linkedin.com/in/marilynhoang",
-            "FavProduct": "I love the Owala water bottle and will forever recommend it to anyone and everyone because of its sipping/chugging feature, variety of fun colorways, and handle that doubles as a lock. I can confidently say this is the best water bottle I've ever owned.",
-            "WhyPS": "I joined Product Space because of the fellowship program, mentorship opportunity, and its community. As someone who is new to the design field, I loved how they did not require any previous experience and curated a curriculum for us and our interests!"
-        },
-        {
-            "id": "naomi-bio",
-            "name": "Naomi Kim",
-            "position": "Design Fellow",
-            "imgSrc": "'images/Design/NaomiKim.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/naomi-kim-12ba19259/",
-            "FavProduct": "Google Calendar! It literally organizes my whole life! I am a firm believer in putting things down to relieve your brain of the extra effort to remember your schedule. I love how you can customize your calendar according to different labels + colors too <3 definitely keeps me sane amidst the busyness of life :)",
-            "WhyPS": "I was initially uncertain of what Product Space was going to be like, but nevertheless eager to join! Only a couple months in, I have quickly found it to be a community that is super practical and career-focused, while simultaneously being an environment that is approachable + fosters growth. Feel grateful I get to be around a group of people who are all  striving towards progress together :)"
-        },
-        {
-            "id": "noelle-bio",
-            "name": "Noelle Lam",
-            "position": "Design Fellow",
-            "imgSrc": "'images/Design/NoelleLam.jpg'",
-            "LinkedIn": "http://www.linkedin.com/in/noellelam",
-            "FavProduct": "My favorite product is Google Calendar! It allows me to meticulously plan my days down to the hour and helps me stay organized. ",
-            "WhyPS": "Having just switched majors, my goal this school year was to get involved in the design community and take a step towards developing my career interests. I'm thankful I can say that Product Space has helped me with exactly that! As a bonus, I got to make some cool new friends too :)"
-        },
-        {
-            "id": "ryan-bio",
-            "name": "Ryan Eang",
-            "position": "Design Fellow",
-            "imgSrc": "'images/Design/RyanEang.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/ryan-eang/",
-            "FavProduct": "My favorite product are my Onitsuka Tiger Mexico 66's because they are super versatile, and are a timeless silhouette in my wardrobe and in history. ",
-            "WhyPS": "I joined Product Space for a sense of community and finding like minded individuals who have similar career interests, but also help foster product curiosity for others. "
-        }
-    ],
-    "Marketing Fellows": [
-        {
-            "id": "anika-bio",
-            "name": "Anika Surapaneni",
-            "position": "Marketing Fellow",
-            "imgSrc": "'images/Marketing/AnikaSurapaneni.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/anikasur/",
-            "FavProduct": "I've been loving Beli, the restaurant ranking app, lately! Beli seamlessly combines my passion for exploring cities through food with its convenient, user-friendly platform to organize my restaurant experiences and discover new gems recommended by others!",
-            "WhyPS": "I joined Product Space to become part of a vibrant community of innovative and driven students passionate about product development, where I can collaborate on various projects and fuel creativity together!"
-        },
-        {
-            "id": "ellen-bio",
-            "name": "Ellen Chang",
-            "position": "Marketing Fellow",
-            "imgSrc": "'images/Marketing/EllenChang.jpg'",
-            "LinkedIn": "http://www.linkedin.com/in/ellen-changg",
-            "FavProduct": "My favorite product is Google Calendar because I love how efficient and straightforward it is to manage and visualize my schedule. The seamless integration with other platforms makes it easy to share and coordinate events with others!",
-            "WhyPS": "I joined Product Space to immerse myself in a supportive environment of like-minded individuals passionate about a career in product :D Through the fellowship program, I look forward to collaborating with individuals from diverse backgrounds, refining my professional skills, and continuing to grow and succeed with all the wonderful people in PS! \ud83e\udef6"
-        },
-        {
-            "id": "jihwan-bio",
-            "name": "Jihwan Kwak",
-            "position": "Marketing Fellow",
-            "imgSrc": "'images/Marketing/JihwanKwak.jpg'",
-            "LinkedIn": "https://www.linkedin.com/jihwan-kwak",
-            "FavProduct": "My favorite product is YouTube. I love how anyone can create videos and share with the world and get to learn about something or see somewhere that you might not be able to in real life.",
-            "WhyPS": "I joined Product Space to dive deeper into product and further improve myself as a designer. Also, I wanted to join a group of people who are so warm-hearted and motivated, which I am thankful for being a part of now."
-        },
-        {
-            "id": "justin-bio",
-            "name": "Justin Alinas",
-            "position": "Marketing Fellow",
-            "imgSrc": "'images/Marketing/JustinAlinas.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/justinalinas/",
-            "FavProduct": "Spotify because I love that it has personalized recommendations and playlists to cater to my music taste to which I can find new songs.",
-            "WhyPS": "I joined Product Space to primarily learn the necessary skills that are needed for the job industry and gain confidence in my professional presence. I also wanted to meet other students to make memories and enjoy our time in college."
-        },
-        {
-            "id": "kaitlyn-bio",
-            "name": "Kaitlyn Butcher",
-            "position": "Marketing Fellow",
-            "imgSrc": "'images/Marketing/KaitlynButcher.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/kaitlyn-butcher/",
-            "FavProduct": "Apple Camera/Photos is my favorite product because users can freely take, share, and cherish photos with their loved ones. ",
-            "WhyPS": "I joined Product Space to grow my understanding of product in a supportive community of bright and ambitious minds hoping to make meaningful change. \u25e1\u0308 "
-        },
-        {
-            "id": "lucas-bio",
-            "name": "Lucas Jung",
-            "position": "Marketing Fellow",
-            "imgSrc": "'images/Marketing/LucasJung.jpg'",
-            "LinkedIn": "http://www.linkedin.com/in/lucas-jung-949a3229b",
-            "FavProduct": "My favorite product is Spotify. I enjoy listening to music any chance that I get, whether it's to pass time or get in the mood!",
-            "WhyPS": "I joined Product Space to gain practical experience in marketing, while finding a community of other like-minded students, ultimately providing opportunities for personal and professional development. To me, what set Product Space apart from other orgs was the fact that they weren't so focused on your qualifications or past experiences, but more so welcomed those who were simply passionate and eager to learn and grow. "
-        }
-    ],
-    "Management Fellows": [
-        {
-            "id": "alex-bio",
-            "name": "Alex Kwon",
-            "position": "Management Fellow",
-            "imgSrc": "'images/Management/AlexKwon.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/alexander-kwon-46963723a/",
-            "FavProduct": "My favorite product right now is probably Google Calendar, mainly because I have relied on it so much lately with having a jam packed schedule. I am bad at time management and keeping track of my tasks and events, so Google Calendar has honestly saved my quarter with keeping my events, work shifts, assignments, hangouts with friends, and even deadlines for the week and month all organized.",
-            "WhyPS": "I joined Product Space because of the opportunities and community that it presented for everyone whether you are new to Product or farther along in your path. I really enjoy being surrounded by like-minded people who are not just driven and have growth mindsets, but also are empathetic and care about growing intentional relationships with others. "
-        },
-        {
-            "id": "alina-bio",
-            "name": "Alina Pham",
-            "position": "Management Fellow",
-            "imgSrc": "'images/Management/AlinaPham.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/alinapham-",
-            "FavProduct": "My favorite product would be Notion because of how incredibly versatile it is. Not only has it helped me become more productive but being able to personalize pages makes using it even more enjoyable!",
-            "WhyPS": "I joined Product Space to further explore my interest in product management while meeting new people and making lasting friendships!"
-        },
-        {
-            "id": "aurelia-bio",
-            "name": "Aurelia Rachman",
-            "position": "Management Fellow",
-            "imgSrc": "'images/Management/AureliaRachman.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/aurelia-rachman-12890a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-            "FavProduct": "My favorite product is the iPad because it\u2019s like a mini TV! It also has so much versatility, it can be used as a laptop and act as a notebook as well. I love being an iPad kid :D",
-            "WhyPS": "I joined Product Space because I was interested in product management and was looking for an uplifting community where I could learn about the product industry comfortably."
-        },
-        {
-            "id": "billie-bio",
-            "name": "Billie Sumera",
-            "position": "Management Fellow",
-            "imgSrc": "'images/Management/BillieSumera.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/isabellasumera/",
-            "FavProduct": "My favorite product is my Eufy Robot Vacuum! I love that I can set it to clean from the app, and come home to a freshly vacuumed apartment. It also has a mode where I can control it like a remote-controlled car, which is fun and allows me to spot clean.",
-            "WhyPS": "I have always been interested in product and wasn't sure how or where I could learn more. I could tell from the recruitment events that Product Space was a group of extremely talented, fun, and welcoming people! On top of learning as much as I can from the wealth of knowledge and resources inside PS, I have been grateful to meet and become friends with some of the absolute best people on campus."
-        },
-        {
-            "id": "miranda-bio",
-            "name": "Miranda Meng",
-            "position": "Management Fellow",
-            "imgSrc": "'images/Management/MirandaMeng.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/miranda-meng",
-            "FavProduct": "Google Calendar is my favorite product because of its incredible functionality for organizing all my events. Visual aids help me understand my upcoming schedules and being able to color code my calendars and tasks ensure that I never miss an event!",
-            "WhyPS": "I joined Product Space because I wanted a community that could offer unconditional support in navigating the world of product. Product Space has incredible resources and a vast network of experienced product leaders that are able to help me break into the industry."
-        },
-        {
-            "id": "rohan-bio",
-            "name": "Rohan Nigam",
-            "position": "Management Fellow",
-            "imgSrc": "'images/Management/RohanNigam.jpg'",
-            "LinkedIn": "https://www.linkedin.com/in/rohan-nigam03/",
-            "FavProduct": "My favorite product is ChatGPT since it helps me with many of my daily activities, and it is able to answer all of my curiosities.",
-            "WhyPS": "I joined Product Space to learn more about product development from experienced students and to further my professional knowledge in the field. In addition, I joined for the close-knit and welcoming community that the club offers."
-        }
-    ]
+  "Design Fellows": [
+    {
+      "id": "aryaa-bio",
+      "name": "Aryaa Pathak",
+      "position": "Design Fellow",
+      "imgSrc": "'images/Design-24-25/AryaaPathak.jpg'",
+      "LinkedIn": "www.linkedin.com/in/aryaa-pathak-60599a306",
+      "FavProduct": "Spotify is my favorite product because it makes discovering new music effortless with personalized playlists and an easy-to-use interface. Whether I’m studying, driving, or cooking, it always has the perfect soundtrack.",
+      "WhyPS": "I joined to expand my design knowledge and strengthen my professional prospects. UI/UX is a broad field, and I found product design particularly interesting to explore further."
+    },
+    {
+      "id": "cynthia-bio",
+      "name": "Cynthia Bui",
+      "position": "Design Fellow",
+      "imgSrc": "'images/Design-24-25/CynthiaBui.jpg'",
+      "LinkedIn": "http://www.linkedin.com/in/cynthia-bui21",
+      "FavProduct": "My favorite product is Pinterest! I love that it promotes its users to share and gain inspiration from one another and the variety of content that can be found from it.",
+      "WhyPS": "I joined Product Space as I wanted to learn more about the product world as it can be really difficult finding concrete information about product related roles and work it entails but Product Space has helped so much in that regard in helping me navigate what I want to pursue. Another big reason is that the Product Space community is incredibly welcoming and sweet and I wanted to meet more like-minded people who were also passionate about product!"
+    },
+    {
+      "id": "edna-bio",
+      "name": "Edna Ho",
+      "position": "Design Fellow",
+      "imgSrc": "'images/Design-24-25/EdnaHo.jpg'",
+      "LinkedIn": "www.linkedin.com/in/edna-ho",
+      "FavProduct": "My favorite product is BeReal. It not only allows me to catch a glimpse into my friends' lives as we all navigate college, but it also resonates with my values of staying authentic and romanticizing the little moments!",
+      "WhyPS": "I joined Product Space when I was pivoting from software engineering to product design and was wanting a community of people to learn from and share this passion with. It's inspiring to be surrounded by people who push you further and are contributing to the betterment of our lovely world."
+    },
+    {
+      "id": "haley-bio",
+      "name": "Haley Chan",
+      "position": "Design Fellow",
+      "imgSrc": "'images/Design-24-25/HaleyChan.jpg'",
+      "LinkedIn": "linkedin.com/in/haleywmchan",
+      "FavProduct": "My favorite product is Venmo! I think it's super creative how they've transformed a mobile payment app into a social hub for us to see what our friends have been up to :)",
+      "WhyPS": "I really resonate with Product Space's core values of community, empathy, and growth, so I thought it'd be the perfect place to connect with other students who share these values and are also pursuing careers in product. Since empathy lies at the heart of product design, being surrounded by people who embody these principles has deeply enriched both my personal and professional growth."
+    },
+    {
+      "id": "marisa-bio",
+      "name": "Marisa Kawakami",
+      "position": "Design Fellow",
+      "imgSrc": "'images/Design-24-25/MarisaKawakami.jpg'",
+      "LinkedIn": "www.linkedin.com/in/marisa-kawakami",
+      "FavProduct": "One of my favorite products to scroll through endlessly is Pinterest. It just gets me—like it knows exactly what I was looking for, even when I didn’t. No matter what, it always feels like it’s showing me exactly what my brain wants but couldn’t find anywhere else.",
+      "WhyPS": "I joined Product Space because I was truly drawn to the community and the people I met who were part of the club. It provided a welcoming space where I felt comfortable asking questions and growing as a designer in multiple ways—not just through professional development, but also by building genuine connections with other designers and like-minded individuals who share the same passion."
+    },
+    {
+      "id": "seth-bio",
+      "name": "Seth San Miguel",
+      "position": "Design Fellow",
+      "imgSrc": "'images/Design-24-25/SethSanMiguel.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/sethsanmiguel/",
+      "FavProduct": "My favorite product has to be Vaseline because of its versatility and usability. It's a life saver during the dry weather and I love how its scalable from a pocket size to a comically large tub.",
+      "WhyPS": "My ultimate goal while in college is to graduate as a better version of myself by gathering unique experiences and surrounding myself with passionate, like-minded people. Product Space has been the perfect community for just that — a place where I can deepen my passion for product design while building long-lasting friendships."
+    },
+    {
+      "id": "soren-bio",
+      "name": "Soren Boddy",
+      "position": "Design Fellow",
+      "imgSrc": "'images/Design-24-25/SorenBoddy.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/sorenboddy/",
+      "FavProduct": "Letterboxd! It is a great addition to my movie watching hobby, and I love hearing how different communities review movies.",
+      "WhyPS": "I admired the community and drive of Product Space and saw myself fitting in very well!"
+    }
+  ],
+  "Marketing Fellows": [
+    {
+      "id": "caleb-bio",
+      "name": "Caleb Kim",
+      "position": "Marketing Fellow",
+      "imgSrc": "'images/Marketing-24-25/CalebKim.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/caleb-kim-68985429a/",
+      "FavProduct": "My favorite product is Google Calendar because it’s incredibly easy to use and provides a convenient way to manage your schedule. I also like how you can customize event colors, which makes creating visually appealing, aesthetic calendars fun and organized.",
+      "WhyPS": "I joined Product Space because I was looking for a supportive community that could help me achieve both personal and professional goals. I was also hoping to explore different career paths in product that may interest me and work on hands-on projects!"
+    },
+    {
+      "id": "dylan-bio",
+      "name": "Dylan Cheng",
+      "position": "Marketing Fellow",
+      "imgSrc": "'images/Marketing-24-25/DylanCheng.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/dylancheng24/",
+      "FavProduct": "My favorite product at the moment is Google Calendar because it allows me to plan out my day and tasks.",
+      "WhyPS": "I joined Product Space in order to further develop my knowledge regarding product marketing and go-to-market strategy."
+    },
+    {
+      "id": "jodie-bio",
+      "name": "Jodie Hitosis",
+      "position": "Marketing Fellow",
+      "imgSrc": "'images/Marketing-24-25/JodieHitosis.jpg'",
+      "LinkedIn": "www.linkedin.com/in/jodiehitosis",
+      "FavProduct": "LEUCHTTURM1917 is my favorite product because it's compact, stylish, and practical. I've been using it as a to-do list for 5 months now and I carry it everywhere.",
+      "WhyPS": "Of all the informational nights I attended in the first quarter, Product Space was the only business organization that appealed to me as a freshman. Product Space recruits eager learners with little to no experience, creating a welcoming environment for product enthusiasts of various expertise."
+    },
+    {
+      "id": "justin-young-bio",
+      "name": "Justin Young",
+      "position": "Marketing Fellow",
+      "imgSrc": "'images/Marketing-24-25/JustinYoung.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/justinthielyoung/",
+      "FavProduct": "My favorite product is Airbnb because it completely disrupted the hotel industry, permanently transforming the travel experience for millions of people. I also really love their story—they started off as underdogs without a conventional team and faced widespread doubt in the business world, yet they persevered and have now become a source of inspiration for startups around the world.",
+      "WhyPS": "I joined Product Space to immerse myself in a community of innovative thinkers. It’s the kind of place where you can gain hands-on experience and sharpen your ability to craft solutions that truly resonate with users."
+    },
+    {
+      "id": "kelsey-bio",
+      "name": "Kelsey Ma",
+      "position": "Marketing Fellow",
+      "imgSrc": "'images/Marketing-24-25/KelseyMa.jpg'",
+      "LinkedIn": "www.linkedin.com/in/kelsey-ma-4b6219241",
+      "FavProduct": "My favorite product is Notability because I can keep all my personal and academic notes in one place. I can also make it visually appealing!",
+      "WhyPS": "Not only did I want to learn more about what it is like to work in the product space, I also wanted to meet like-minded people and make friends!"
+    },
+    {
+      "id": "sophia-furnival-bio",
+      "name": "Sophia Furnival",
+      "position": "Marketing Fellow",
+      "imgSrc": "'images/Marketing-24-25/SophiaFurnival.jpg'",
+      "LinkedIn": "www.linkedin.com/in/snfurni",
+      "FavProduct": "My favorite product is Google Calendar! It helps me keep track of my schedule and I love using the features to color plan and set up meetings.",
+      "WhyPS": "I joined Product Space to be part of a supportive community that I can learn from as I explore my career aspirations in product."
+    },
+    {
+      "id": "vivian-bio",
+      "name": "Vivian Nguyen",
+      "position": "Marketing Fellow",
+      "imgSrc": "'images/Marketing-24-25/VivianNguyen.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/vivianqn/",
+      "FavProduct": "My favorite product is Notion because I love how versatile it is—I can use it for everything, from educational and professional tasks to personal goals. My all time favorite feature would be databases since it helps me keep an organized archive of all my class notes, even from high school.",
+      "WhyPS": "I joined Product Space because I was interested in learning more about what goes into product development. Being able to work alongside others who are equally as driven and passionate as me has been such an amazing experience so far!"
+    }
+  ],
+  "Management Fellows": [
+    {
+      "id": "aaron-bio",
+      "name": "Aaron Moon",
+      "position": "Management Fellow",
+      "imgSrc": "'images/Management-24-25/AaronMoon.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/aaronmoonn/",
+      "FavProduct": "My favorite product is an Owala because of its unique offering of convenience and versatility in functionality.",
+      "WhyPS": "I joined Product Space in order to develop my professional passion for product. Alongside professionalism, I joined to find a community of like minded individuals to cultivate connections and personal growth."
+    },
+    {
+      "id": "charles-bio",
+      "name": "Charles Rivera",
+      "position": "Management Fellow",
+      "imgSrc": "'images/Management-24-25/CharlesRivera.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/charlesfrivera/",
+      "FavProduct": "My favorite product is the \"one sec\" app, which adds a thoughtful pause before opening distracting apps like Instagram or TikTok. That split-second pause helps me interrupt mindless scrolling, freeing up time to study, hang out with friends, or focus on hobbies.",
+      "WhyPS": "I joined Product Space not only to grow professionally, but to find a community that values growth and empathy as much as I do – where learning feels collaborative, not competitive."
+    },
+    {
+      "id": "joshua-bio",
+      "name": "Joshua Kook",
+      "position": "Management Fellow",
+      "imgSrc": "'images/Management-24-25/JoshuaKook.jpg'",
+      "LinkedIn": "www.linkedin.com/in/joshuakook",
+      "FavProduct": "My favorite product right now is Youtube. Although at (many) times I can spend countless hours in a rabbit hole of videos, Youtube has also served to be a great and enjoyable learning resource for me to discover and build my strongest passions.",
+      "WhyPS": "Being new to product management, I joined Product Space because of the immense emphasis we put on personal growth within a close-knit community, especially to those of all backgrounds and experience levels. Through this genuine fellowship program, I was able to surround myself with amazing students and accomplished mentors who can guide me into a successful future."
+    },
+    {
+      "id": "sophia-kim-bio",
+      "name": "Sophia Kim",
+      "position": "Management Fellow",
+      "imgSrc": "'images/Management-24-25/SophiaKim.jpg'",
+      "LinkedIn": "www.linkedin.com/in/sophiak25",
+      "FavProduct": "My favorite product is the airfryer because it has changed the food game. It is so easy to reheat things and cook things in a more convenient and yummy way!!",
+      "WhyPS": "I joined Product space so I could learn more about Product Management and meet others who are in the industry and are pursuing it to motivate me to grow!"
+    },
+    {
+      "id": "travis-bio",
+      "name": "Travis Nguyen",
+      "position": "Management Fellow",
+      "imgSrc": "'images/Management-24-25/TravisNguyen.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/travis-nguyen17/",
+      "FavProduct": "I love having the Bose headphones because it makes it easier to study and focus with its noise cancellation feature! The Bose headphones are foldable so I can easily store it and it has bluetooth connection so I don't have a problem with a wire tangling with other stuff.",
+      "WhyPS": "I joined Product Space because I wanted to explore and broaden my experience with product management alongside with others who have similar motives. I wanted to have a tight-knit community whose members are kind-hearted and open to supporting me as I learn more about Product."
+    },
+    {
+      "id": "val-bio",
+      "name": "Val Chen",
+      "position": "Management Fellow",
+      "imgSrc": "'images/Management-24-25/ValChen.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/val-chen/",
+      "FavProduct": "VSCO is my favorite product because it offers an intimate social media experience free from the pressures of likes and comments. It feels like my own personal digital journal, where I can share creativity and memories in a reflective and private way.",
+      "WhyPS": "I joined Product Space because I’ve always wanted to pursue a career in product management, combining my passion for working with people and my interests within both business and design. Beyond the knowledge Product Space has granted me, this organization has been an incredible opportunity to collaborate with others and foster meaningful friendships."
+    },
+    {
+      "id": "vipra-bio",
+      "name": "Vipra Bindal",
+      "position": "Management Fellow",
+      "imgSrc": "'images/Management-24-25/VipraBindal.jpg'",
+      "LinkedIn": "https://www.linkedin.com/in/viprab/",
+      "FavProduct": "Khan Academy! I think it's awesome that they made quality education so accessible around the world for free. Their content is super digestible and it's definitely saved me the night before some big tests.",
+      "WhyPS": "I wanted to be a part of a community that was passionate about solving problems through product. There's so much to learn from everyone in PS and it's incredible to be part of such a talented and welcoming group of people."
+    }
+  ]
 }
